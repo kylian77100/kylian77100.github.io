@@ -1,0 +1,7 @@
+TODO LIST
+
+- Gérer les visiteurs qui n'ont pas JavaScript d'activé dans leur navigateur
+- Ajouter les comptes twitter de chaque développeur
+- Pouvoir filtrer la liste par langage, framework, outil
+- Pouvoir classer par nombre de vues, vidéos, d'abonnés
+- Mettre en place un système de build quotidien pour mettre à jour les données YouTube une fois par jour
